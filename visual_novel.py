@@ -111,17 +111,14 @@ def main():
 
     # Dialog tentang menyatakan cinta
     dialogs = [
-        ("Eva: Hai, aku ingin mengatakannya... sudah lama aku merasakan sesuatu yang spesial untukmu.", character_happy, "Eva", []),
-        ("Eva: Setiap kali kita bersama, hatiku berdebar. Aku tidak bisa menyembunyikannya lagi.", character_happy, "Eva", []),
-        ("Eva: Aku mencintaimu, dan aku harap kau merasakan hal yang sama.", character_happy, "Eva", ["Aku juga mencintaimu!", "Aku masih butuh waktu."]),
+        ("Hai, Kenalin aku ''Rin''. Aku ini ciptaan ''radjaaaxp'' >~<!", character_happy, "Rin", ["Apa ini sudah rilis?"]),
+        ("Ohh iya lupa untuk rincian game ini masih ditahap pengembangan yaa.", character_happy, "Rin", []),
+        ("Aku janji kalo project ini SELESAI aku kasih tau yaa.", character_happy, "Rin", ["Baik kalo gitu aku tunggu!", "Kok lama banget rilisnya!."]),
         
         # Dialog jika memilih "Aku juga mencintaimu!"
-        ("Eva: Benarkah? Aku sangat senang mendengarnya! Kamu adalah segalanya bagiku.", character_happy, "Eva", []),
-        ("Eva: Aku merasa kita bisa mengatasi semua bersama.", character_happy, "Eva", []),
+        ("Oke ditunggu aja yaa buat pengembangannya. Stay tune!.", character_happy, "Rin", []),
+        ("Nanti kalo udah selesai aku janji bakal kasih kamu nyoba ini game.", character_happy, "Rin", []),
         
-        # Dialog jika memilih "Aku masih butuh waktu."
-        ("Eva: Oh, aku mengerti. Mungkin kita bisa tetap berteman, dan aku akan selalu ada untuk mendukungmu.", character_happy, "Eva", []),
-        ("Eva: Aku berharap kamu menemukan jawaban yang tepat. Aku selalu di sini untukmu.", character_happy, "Eva", [])
     ]
 
     while running:
@@ -162,7 +159,7 @@ def main():
             if choices:
                 draw_choices(choices)
         else:
-            draw_text_multiline("Terima kasih telah bermain!", 70, 630, font, screen_width - 140)
+            draw_text_multiline("Terima kasih telah mencobanya, Di tunggu yaa sampe rilis. Kalo gitu aku izin pamit yaa >~<!", 70, 630, font, screen_width - 140)
 
         draw_time()
 
