@@ -19,7 +19,7 @@ Ikuti langkah-langkah berikut untuk menjalankan game ini di komputer Anda:
 
 1. **Clone repository:**
     ```bash
-    git clone https://github.com/username/visual-novel-game.git
+    git clone https://github.com/raesone1/Game-Visual-Novel.git
     ```
 
 2. **Instal dependensi:**
