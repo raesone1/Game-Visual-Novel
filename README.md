@@ -58,7 +58,7 @@ Kami terbuka terhadap kontribusi dari berbagai pengembang. Jika Anda memiliki id
 
 ## Kontak
 
-Jika Anda memiliki pertanyaan atau ingin berdiskusi lebih lanjut, Anda bisa menghubungi kami melalui email di [email@example.com] atau melalui [forum atau Discord server] kami.
+Jika Anda memiliki pertanyaan atau ingin berdiskusi lebih lanjut, Anda bisa menghubungi kami melalui email di [radjatubagus@gmail.com] atau melalui [forum atau Discord server] kami.
 
 Terima kasih telah memainkan game kami! Kami berharap Anda menikmati pengalaman visual novel yang kami buat.
 
