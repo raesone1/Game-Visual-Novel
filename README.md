@@ -13,13 +13,6 @@ Visual Novel Game adalah permainan yang berfokus pada cerita interaktif, di mana
 - **Grafis dan Musik:** Ilustrasi yang indah dan musik yang menyenangkan untuk memperkaya pengalaman bermain.
 - **Multiple Endings:** Cerita dapat berakhir dengan berbagai cara berdasarkan keputusan yang diambil pemain.
 
-## Screenshot
-
-Berikut adalah beberapa screenshot dari game:
-
-![WhatsApp Image 2024-10-13 at 21 18 18_259f291e](https://github.com/user-attachments/assets/cba8bc29-b580-4512-ab4e-393bb92cb58a)
-*Gambar ini menunjukkan adegan pertama dalam game.*
-
 ## Instalasi
 
 Ikuti langkah-langkah berikut untuk menjalankan game ini di komputer Anda:
